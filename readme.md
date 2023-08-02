@@ -20,6 +20,7 @@ Un README con instrucciones para configurar y ejecutar las pruebas en tu entorno
 Antes de comenzar, asegúrate de tener instalados los siguientes programas en tu máquina:
 
 - [Node.js](https://nodejs.org) (versión 12 o superior)
+- [npm](https://nodejs.org) (versión 12 o superior)
 - [Git](https://git-scm.com/)
 
 ## Instalación y Ejecución
@@ -95,3 +96,11 @@ El proyecto sigue una estructura organizada que facilita la gestión de las prue
 # Documentacion oficial
 Para obtener más información sobre TestCafe y cómo aprovechar todas sus capacidades, consulta la [documentación de TestCafé](https://testcafe.io/documentation)
 
+
+## Programas necesarios
+<details><summary>Programas</summary> 
+<p> 
+    - Node JS
+    - VS Code
+</p>
+</details>

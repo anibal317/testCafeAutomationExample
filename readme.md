@@ -76,7 +76,7 @@ El proyecto sigue una estructura organizada que facilita la gestión de las prue
 ```bash
 .
 ├── pages
-|   ├── LoginPage.js
+│   ├── LoginPage.js
 │   ├── HomePage.js
 │   └── ...
 ├── test
@@ -95,25 +95,3 @@ El proyecto sigue una estructura organizada que facilita la gestión de las prue
 # Documentacion oficial
 Para obtener más información sobre TestCafe y cómo aprovechar todas sus capacidades, consulta la [documentación de TestCafé](https://testcafe.io/documentation)
 
-
-# Título del Proyecto
-
-## Descripción
-
-Este proyecto es una muestra de cómo implementar el botón "copiar al portapapeles" en un README.
-
-## Código de Ejemplo
-
-Para copiar el siguiente código en tu portapapeles, haz clic en el botón de copiar:
-
-```javascript
-const message = "¡Hola, mundo!";
-console.log(message);
-```
-
-<details>
-<summary>📋 Copiar al portapapeles</summary>
-const message = "¡Hola, mundo!";
-console.log(message);
-  
-</details>

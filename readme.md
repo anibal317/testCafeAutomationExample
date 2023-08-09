@@ -88,19 +88,9 @@ El proyecto sigue una estructura organizada que facilita la gestión de las prue
 ├── package.json
 ├── package-lock.json
 └── README.md
-
 ```
-
 
 
 # Documentacion oficial
 Para obtener más información sobre TestCafe y cómo aprovechar todas sus capacidades, consulta la [documentación de TestCafé](https://testcafe.io/documentation)
 
-
-## Programas necesarios
-<details><summary>Programas</summary> 
-<p> 
-    - Node JS
-    - VS Code
-</p>
-</details>
